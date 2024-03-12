@@ -1,3 +1,3 @@
 # Foot-Vision
 This is the repository for Foot Vision.
-The hardware and the code are comming soon.
+The hardware design and the code are comming soon.
